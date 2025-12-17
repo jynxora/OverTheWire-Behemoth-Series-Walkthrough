@@ -20,9 +20,11 @@ behemoth/
 ├── level-0/
 │   ├── Behemoth_Level-0.pdf
 │   └── Behemoth_Level-0.md
+|   └── image(s)
 ├── level-1/
 │   ├── Behemoth_Level-1.pdf
 │   └── Behemoth_Level-1.md
+|   └── image(s)
 ├── level-2/
 │   └── ...
 └── README.md
