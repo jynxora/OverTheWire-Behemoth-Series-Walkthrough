@@ -38,7 +38,7 @@ behemoth/
 | ----: | --------------------------- | ---------------------------------------------- | --------- |
 |     0 | Hardcoded secrets           | Plaintext password comparison                  | PDF · MD  |
 |     1 | Stack-based buffer overflow | exploitation under unstable stack & env layout | PDF · MD  |
-|     2 | TBD                         | To be documented                               | PDF · MD  |
+|     2 | env variable exploitation   | Unsafe command execution via $PATH trust       | PDF · MD  |
 |     3 | TBD                         | To be documented                               | PDF · MD  |
 |     4 | TBD                         | To be documented                               | PDF · MD  |
 |     5 | TBD                         | To be documented                               | PDF · MD  |
