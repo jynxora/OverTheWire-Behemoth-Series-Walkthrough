@@ -41,7 +41,7 @@ behemoth/
 |     2 | env variable exploitation   | Unsafe command execution via $PATH trust              | PDF · MD  |
 |     3 | Format String Vulnerability | Byte-wise GOT overwrite via %n                        | PDF · MD  |
 |     4 | TOCTOU + Symlink abuse      | Signal-based process control for privilege escalation | PDF · MD  |
-|     5 | TBD                         | To be documented                                      | PDF · MD  |
+|     5 | Insecure data exfiltration  | Privileged file read via local socket transmission    | PDF · MD  |
 |     6 | TBD                         | To be documented                                      | PDF · MD  |
 |     7 | TBD                         | To be documented                                      | PDF · MD  |
 |     8 | TBD                         | To be documented                                      | PDF · MD  |
