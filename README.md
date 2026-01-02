@@ -43,10 +43,8 @@ behemoth/
 |     4 | TOCTOU + Symlink abuse      | Signal-based process control for privilege escalation | PDF · MD  |
 |     5 | Insecure data exfiltration  | Privileged file read via local socket transmission    | PDF · MD  |
 |     6 | Unsafe shellcode execution  | Output-gated code execution via string comparison     | PDF · MD  |
-|     7 | TBD                         | To be documented                                      | PDF · MD  |
-|     8 | TBD                         | To be documented                                      | PDF · MD  |
-
-*(Table updated as levels are completed)*
+|     7 | Stack-based buffer overflow | Direct shellcode execution via EIP overwrite          | PDF · MD  |
+|     8 | "CONGRATULATIONS" Message   | Series completion checkpoint                          | PDF · MD  |
 
 
 ---
